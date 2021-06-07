@@ -1,0 +1,44 @@
+.centerDiv {
+    text-align: center;
+  }
+  
+  .line {
+    border-top: solid black;
+    width: 65%;
+    margin: auto;
+  }
+  
+  .line1 {
+    border-bottom: 2px dashed black;
+    width: 65%;
+    margin: auto;
+  }
+  
+  .mainDiv {
+    width: 50%;
+    margin: auto;
+    display: flex;
+    margin-top: 20px;
+  }
+  
+  .leftDiv,
+  .rightDiv {
+    flex: 50%;
+  }
+  
+  .rightDiv {
+    padding-left: 40px;
+    border-left: 2px solid black;
+    
+  }
+  
+  h2 {
+    color: rgb(74, 29, 179);
+  }
+  
+  span {
+    color: rgb(243, 26, 26);
+  }
+  h4{
+      color: rgb(201, 19, 140);
+  }
