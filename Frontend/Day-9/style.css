@@ -1,0 +1,48 @@
+* {
+    
+    background-color: rgb(171, 201, 124);
+  }
+  
+  /* Status of Seats */
+  .status {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  .showSeats {
+    margin: 30px 20px;
+    text-align: center;
+  }
+  
+  /* Styling all boxes */
+  .container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  
+  .allBoxes {
+    padding: 10px;
+    border: 1px solid brown;
+    height: 60vh;
+    width: 70vw;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    background-color: rgb(252, 101, 41);
+  }
+  
+  .box {
+    background-color: rgb(141, 46, 8);
+    margin: 3px;
+  }
+  
+  .box:hover {
+    background-color: rgb(175, 77, 38);
+    cursor: pointer;
+  }
+  
+  .boxClicked {
+    background-color: rgb(88, 29, 6);
+  }
