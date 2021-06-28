@@ -1,0 +1,35 @@
+body{
+    background-color:lightgrey;
+
+}
+.container{
+    background-color: white;
+    width:500px;
+    position:absolute;
+    left:30%;
+    height:100vh;
+    text-align: center;
+    
+}
+#btn{
+    background-color: rgb(255, 0, 13);
+    color:white;
+    border:none;
+    padding:5px 10px;
+}
+#add{
+    width: 300px;
+    padding:4px;
+}
+#list li{
+    padding:8px;
+    margin:8px;
+    list-style: none;
+}
+li:hover{
+    background-color: grey;
+}
+.checked{
+    text-decoration: line-through;
+    cursor: pointer;
+}
