@@ -8,7 +8,7 @@ const Card = () => {
           <img src={image} alt="Meme" />
           <div className="content">
             <h2>This is React Card</h2>
-            <h4>Created By - ANSH SAWANT</h4>
+            <h4>Created By - Abhishek Singh</h4>
           </div>
         </div>
       </div>
