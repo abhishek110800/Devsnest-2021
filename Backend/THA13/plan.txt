@@ -1,0 +1,5 @@
+1. Make less API calls for speed..
+2. Ask for security and crowd expectation from client before making project
+
+
+AGILE METHODOLOGY
